@@ -1,0 +1,67 @@
+* {box-sizing: border-box;}
+.kep{
+    height:450px;;
+    width:750px;
+}
+h1{
+    text-align:center;
+    color: darksalmon;
+}
+li{
+    display: inline;
+    text-align: center;
+}
+ol{
+    word-spacing: 220px;
+    text-align: center;
+    margin: auto;
+    color: darksalmon;
+    padding:10px;
+}
+.Elso_blokk{
+    background-color: cornsilk;
+    background-image: url("hatter.jpg");
+    background-repeat: no-repeat;
+    background-size: 1500px 660px;
+    height:660px;
+}
+.Második_blokk{
+    background-color: rgb(240, 217, 85);
+    border: 1px solid black;
+    height: 450px;
+    width: calc(100% - 750px);
+    float: right;
+    margin: auto;
+    padding-left:10px;
+    padding-top: 10px;
+    padding-right:10px;
+}
+h2{
+    text-align: center;
+
+}
+.carussel{
+    float:left;;
+    margin-top: 0px;;
+}
+a:visited{
+    color:darksalmon
+}
+a:hover{
+    color:darksalmon;
+}
+h4{
+    width:160px;
+    color: black;
+}
+.nyom{
+    float: right;
+    margin-right: 100px;;
+}
+p{
+    color:black
+}
+h5{
+    color:black;
+    text-align: center;
+}
